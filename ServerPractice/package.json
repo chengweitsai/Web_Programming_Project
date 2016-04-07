@@ -1,0 +1,25 @@
+{
+  "name": "server_practive",
+  "version": "1.0.0",
+  "description": "This is a practice asiignment on HTTP & Express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengweitsai/ServerPractice.git"
+  },
+  "author": "Cheng_Wei,Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengweitsai/ServerPractice/issues"
+  },
+  "homepage": "https://github.com/chengweitsai/ServerPractice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "nunjucks": "^2.4.1",
+    "path": "^0.12.7"
+  }
+}
